@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iru:home|Door43 (iru)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iru|d43-iru repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iru/archive/master.zip|d43-iru.zip]]
+
+**Recent Changes**
+{{changes>ns = iru}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iru|Ethnologue data]]
+
