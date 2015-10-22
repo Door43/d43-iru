@@ -1,0 +1,9 @@
+
+----
+~~NOCACHE~~
+**[[iru:obs|Open Bible Stories]]**
+
+{{page>iru:obs:stories}}
+
+**Recent Changes**
+{{changes>ns = iru:obs}}
